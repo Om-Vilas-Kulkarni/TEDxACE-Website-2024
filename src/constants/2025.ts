@@ -42,7 +42,7 @@ export const speakers2025 = [
     list: ['Media Company Owner', 'YouTuber', 'Content Creator'],
   },
   {
-    name: "Dr. Mansi Choudhary",
+    name: "Ms. Mansi Choudhary",
     position: "Renowned Nutritionist",
     image:
       "https://res.cloudinary.com/dlsaawg9j/image/upload/v1741607450/Mansi_xykxdu.jpg",
@@ -88,8 +88,8 @@ export const speakers2025 = [
   },
 
   {
-    "name": "Aaron Colaco",
-    "position": "Equity Derivatives, BOA",
+    "name": "Mr. Aaron Colaco",
+    "position": "Toastmaster, IIT Madras Graduate",
     "image": "https://res.cloudinary.com/dlsaawg9j/image/upload/t_Banner 9:16/v1742407341/Aaron_plbqo6.jpg", // Placeholder image, update if needed
     "text": [
       "An inspiring Toastmaster and a dedicated habit maker, Aaron transforms words into impact and small actions into lasting success. Aaron has a background in Computer Engineering, an MBA in Finance, and Data Science from IIT Madras. With a passion for growth and consistency, they believe that great communication and strong habits shape a remarkable life."
